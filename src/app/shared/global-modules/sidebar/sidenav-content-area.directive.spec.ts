@@ -1,8 +1,11 @@
-import { SidenavContentAreaDirective } from './sidenav-content-area.directive';
+import {ViewContainerRef} from "@angular/core"
+  ;
+import {SidenavContentAreaDirective} from './sidenav-content-area.directive';
 
 describe('SidenavContentAreaDirective', () => {
   it('should create an instance', () => {
-    const directive = new SidenavContentAreaDirective();
+    const viewContainerRef = {} as ViewContainerRef;
+    const directive = new SidenavContentAreaDirective(viewContainerRef);
     expect(directive).toBeTruthy();
   });
 });
