@@ -1,6 +1,9 @@
-# AngularResizeableSidenav
+# Angular Resizeable Sidenav
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+
+## Demonstration
+![Angular Resizeable Sidenav](https://github.com/fsegurai/Angular-Resizeable-Sidenav/tree/main/src/assets/demonstration.gif)
 
 ## Development server
 
