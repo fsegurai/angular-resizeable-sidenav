@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Demonstration
-![Angular Resizeable Sidenav](https://github.com/fsegurai/Angular-Resizeable-Sidenav/tree/main/src/assets/demonstration.gif)
+![Angular Resizeable Sidenav](https://github.com/fsegurai/Angular-Resizeable-Sidenav/blob/820207c1345cb865f3d77a628955260e1872c2ce/src/assets/demonstration.gif?raw=true)
 
 ## Development server
 
